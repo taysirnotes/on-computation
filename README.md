@@ -1,4 +1,4 @@
-# on-computation
+# On Computation
 From [Wikipedia](https://en.wikipedia.org/wiki/Computation):
 > A computation is any type of arithmetic or non-arithmetic calculation that is well-defined. Common examples of computation are mathematical equation solving and the execution of computer algorithms.
 >
